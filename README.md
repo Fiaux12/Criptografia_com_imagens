@@ -9,6 +9,6 @@ Para isso a função do código implementado lhes permitem codificar e decodific
 ## Como executar
 Há duas formas de executar o código. Usando o notebook codificador.jupter e o codificador.py.
 
-### Usando jupter
+### Usando .jupter
 
 ### Usando .py

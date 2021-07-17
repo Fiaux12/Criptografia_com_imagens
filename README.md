@@ -7,8 +7,12 @@ Devido ao início da pandemia e à necessidade de isolamento social, eles ficara
 Para isso a função do código implementado lhes permitem codificar e decodificar essas mensagens e ajudar o amor a vencer esta pandemia!
 
 ## Como executar
-Há duas formas de executar o código. Usando o notebook codificador.ipynb e o codificador.py.
+Há duas formas de executar o código. Usando o Jupyter Notebook codificador.ipynb e o codificador.py.
 
 ### Usando .ipynb
 
+Faça o download do "codificador.ipynb". Logo depois faça o upload para algum notebook, recomendamos o Google Clab. Depois execute as funções principais, usando CTRL+ENTER.
+
 ### Usando .py
+#### Pre requisito: é preciso ter previamente instalado alguma versão atualizada do interpretador de python.
+Faça o download do "codificador.py" Logo depois faça a execução normalmente usando "python codificador.py" em um terminal. 
